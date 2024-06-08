@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kaltak News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kaltak_news">Kaltak News</string>
+    <string name="home">Home</string>
+    <string name="sports">Sports</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="technology">Technology</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="back">BACK</string>
+    <string name="next_">NEXT</string>
+</resources>
